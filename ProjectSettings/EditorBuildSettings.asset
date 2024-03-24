@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Ubiq/1.0.0-pre.3/Demo (XRI)/Project.unity
+    guid: 2de505d34345ab340bdde30d419b24eb
+  - enabled: 0
+    path: Assets/Samples/Ubiq/1.0.0-pre.3/Demo (XRI)/Demo - Loopback.unity
+    guid: 44835542044d9c1469efdf6740cdc7ba
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9a2c103609b51484f97f49f633e4949c, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 81d933e211169dd4ab4c93ca11eaf1a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69bb716f52ae3a94182a69bf9d2ea8f5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 670dadeee7404b740b1f96d9e4e42eeb, type: 2}
